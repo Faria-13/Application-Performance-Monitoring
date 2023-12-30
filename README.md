@@ -1,1 +1,1 @@
-# Application-Performance-Monitoring
+Wrote a Bash script to start and spawn processes, collect system level metrics (RX, TX data rates, bandwidth utilization, disc space) and process level metrics (memory usage, CPU usage) using Linux commands to gauge unbounded memory growth or leaks. Created a report on each of the metrics using Excel.
